@@ -1,0 +1,27 @@
+.explore-options {
+  margin: 0 210px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.explore-options a {
+  text-decoration: none;
+  color: #696969;
+}
+
+.explore-options p {
+  font-size: 24px;
+  color: #363636;
+}
+
+.link {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 100px;
+}
+
+.resturants-chain-links {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  color: #828282;
+  font-size: 16px;
+}
