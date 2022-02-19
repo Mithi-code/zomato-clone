@@ -4,7 +4,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Zomato clone project
+ -- This is a clone of zomato application
 
 In the project directory, you can run:
 
