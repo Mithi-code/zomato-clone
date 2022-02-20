@@ -15,11 +15,6 @@
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "react-select": "^5.2.2",
-<<<<<<< HEAD
-=======
-    "react-slick": "^0.28.1",
-    "slick-carousel": "^1.8.1",
->>>>>>> 987f85fe563e00863f0cf66b42d44a42ff004b70
     "styled-components": "^5.3.3",
     "web-vitals": "^2.1.4"
   },
