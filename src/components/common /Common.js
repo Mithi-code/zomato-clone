@@ -17,7 +17,7 @@ export const Common = () => {
         <input type="text" className='input' placeholder="Search Your item here" />
       </div>
       <div className='profile'>
-        My profile
+        My Profile
       </div>
     </div>
   );
