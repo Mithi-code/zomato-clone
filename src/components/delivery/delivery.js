@@ -2,6 +2,11 @@ import React from 'react'
 
 export const Delivery = () => {
   return (
-    <div>delivery+ghgh</div>
+    <div>
+      <h1>
+        Delivery 
+        = jkhdslsjv
+      </h1>
+    </div>
   )
 }
