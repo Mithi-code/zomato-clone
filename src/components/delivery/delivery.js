@@ -7,6 +7,12 @@ export const Delivery = () => {
         Delivery 
         = jkhdslsjv
       </h1>
+      <ul>
+        <li>2</li>
+        <li>2</li>
+        <li>2</li>
+        <li>2</li>
+      </ul>
     </div>
   )
 }
