@@ -4,7 +4,7 @@ export const night = () => {
   return (
     <div className='nightout'>
       <ul>
-        <li>5</li>
+        <li>6</li>
       </ul>
     </div>
   )
