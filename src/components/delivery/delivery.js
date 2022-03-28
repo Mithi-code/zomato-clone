@@ -12,6 +12,7 @@ export const Delivery = () => {
         <li>2</li>
         <li>2</li>
         <li>2</li>
+        <li>66666</li>
       </ul>
     </div>
   )
